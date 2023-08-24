@@ -1,0 +1,15 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "b".(óœ¨ˆýÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "a".(’·‰Ûùÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "space".(Ä™¶Ñøÿÿÿÿ
+Y
+java:S1659">Declare "b" and all following declarations on a separate line.(îæýìÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "space" local variable.(Ä™¶Ñøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Âéˆˆûÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÂßîÄþÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ

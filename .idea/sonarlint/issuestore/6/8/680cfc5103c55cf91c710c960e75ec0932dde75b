@@ -1,0 +1,15 @@
+
+W
+java:S1854"<Remove this useless assignment to local variable "konsonan".(ÈüÀûùÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "vokal".(ïããûüÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "c".(Ì…òìşÿÿÿÿ
+E
+java:S1481"*Remove this unused "vokal" local variable.(ïããûüÿÿÿÿ
+H
+java:S1481"-Remove this unused "konsonan" local variable.(ÈüÀûùÿÿÿÿ
+=
+java:S1481"'Remove this unused "ch" local variable.(ùÿ©ì
+A
+java:S1481"&Remove this unused "c" local variable.(Ì…òìşÿÿÿÿ
